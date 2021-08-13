@@ -1,0 +1,58 @@
+.Page{
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    
+}
+
+.photo{
+    float: right;
+   
+}
+.infophoto{
+    height: 250px;
+}
+
+.info{
+    float: left;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.info-de-gauche{
+    float: left;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.info-de-droite{
+    margin-left: 150px;
+    position: relative;
+    top: 15px;
+    
+}
+
+h1{
+    font-size: 28px;
+    color: #1397e9;
+    border-bottom:8px solid#1397e9;
+}
+
+.fin{
+    margin-left: auto;
+}
+
+.word{
+    color: rgb(139, 117, 235);
+}
+
+
+
+
+
